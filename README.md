@@ -1,4 +1,4 @@
-[![Screenshot of the Website](https://raw.githubusercontent.com/suhuawang/transfer_learning
+[![Screenshot of the Website](https://github.com/suhuawang/transfer_learning
 /master/screenshot.png)](https://mikepierce.github.io/conference-website-template/)
 
 ---
