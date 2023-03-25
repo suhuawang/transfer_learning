@@ -1,4 +1,5 @@
-[![Screenshot of the Website](https://raw.githubusercontent.com/mikepierce/conference-website-template/master/screenshot.png)](https://mikepierce.github.io/conference-website-template/)
+[![Screenshot of the Website](https://raw.githubusercontent.com/suhuawang/transfer_learning
+/master/screenshot.png)](https://mikepierce.github.io/conference-website-template/)
 
 ---
 
@@ -7,7 +8,7 @@
 
 An HTML/CSS website template perfect for a small academic or technology conference or seminar.
 The template is quick to deploy and straightforward to customize.
-You can [explore it live here](https://mikepierce.github.io/conference-website-template/),
+You can [explore it live here](https://suhuawang/transfer_learning/),
 and see some folks' use of the template
 [here](https://math.ucr.edu/~mathconn/) 
 and [here](https://data-science-conference.github.io) 
